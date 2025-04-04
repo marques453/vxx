@@ -323,7 +323,7 @@ header {
     }
 }
 
-@media screen and (max-width: 1366px) {
+@media screen and (max-height: 768px) {
 
     header{
         width: 60px;
